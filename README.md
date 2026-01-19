@@ -1,5 +1,5 @@
 
-# Chinook SQL Analysis – Task 3
+# Chinook SQL Analysis –
 
 ## Files Included
 - queries_task3.sql : SQL queries for data validation and analysis
